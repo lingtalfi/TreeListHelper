@@ -14,7 +14,7 @@ Install
 ==========
 Using the [uni](https://github.com/lingtalfi/universe-naive-importer) command.
 ```bash
-uni import TreeListHelper
+uni import Ling/TreeListHelper
 ```
 
 

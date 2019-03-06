@@ -1,12 +1,12 @@
 <?php
 
-namespace TreeListHelper;
+namespace Ling\TreeListHelper;
 
 /*
  * LingTalfi 2016-08-26
  */
-use Bat\CaseTool;
-use Bat\FileSystemTool;
+use Ling\Bat\CaseTool;
+use Ling\Bat\FileSystemTool;
 
 class TreeListHelper
 {

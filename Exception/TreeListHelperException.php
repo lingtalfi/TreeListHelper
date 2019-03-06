@@ -1,6 +1,6 @@
 <?php
 
-namespace TreeListHelper;
+namespace Ling\TreeListHelper;
 
 /*
  * LingTalfi 2016-08-26
